@@ -2,3 +2,5 @@ foo
 42
 2
 3
+cubesat
+sat
